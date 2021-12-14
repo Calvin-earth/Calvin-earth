@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Calvin-earth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Calvin-earth/Calvin-earth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Step1: Enter local directories cd 
+Step2: Initialise the local directory as git: git init
+Step3: Add the files in my new reoisitory: git add .
+STep4: Git status
+Step5: Commit the files: git commit -m "First Commit"
+Step6: add URL: git remote add origin URL
+Step7: Push to Github: git push -u origin master
